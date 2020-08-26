@@ -1,2 +1,1 @@
-# GitHub-anonymousV.github.io
-blog
+#Welcome to my blog.
